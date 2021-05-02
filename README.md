@@ -8,7 +8,7 @@ English: This game was developed in 2020, in second grade at technical high scho
 
 ## :arrow_down: How does it works? :arrow_down:
 
-1. Step 1: Type ```pip install arcade``` in terminal;
-2. Step 2: Restart your compilator;
-3. Step 3: Open the file with the sprites and saves;
-4. Step 4: Press run button. 
+Step 1: Type ```pip install arcade``` in terminal;
+Step 2: Restart your compilator;
+Step 3: Open the file with the sprites and saves;
+Step 4: Press run button. 
